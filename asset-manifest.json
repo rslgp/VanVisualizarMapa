@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VanVisualizarMapa/static/css/main.6ed9788d.css",
+    "main.js": "/VanVisualizarMapa/static/js/main.966cfcb5.js",
+    "static/js/787.869b6e0f.chunk.js": "/VanVisualizarMapa/static/js/787.869b6e0f.chunk.js",
+    "index.html": "/VanVisualizarMapa/index.html",
+    "main.6ed9788d.css.map": "/VanVisualizarMapa/static/css/main.6ed9788d.css.map",
+    "main.966cfcb5.js.map": "/VanVisualizarMapa/static/js/main.966cfcb5.js.map",
+    "787.869b6e0f.chunk.js.map": "/VanVisualizarMapa/static/js/787.869b6e0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ed9788d.css",
+    "static/js/main.966cfcb5.js"
+  ]
+}
